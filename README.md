@@ -2,7 +2,7 @@
 I'm Ali I'm 15 You can say some of my hobbies are watching movies listening to pop and classic music 
 I am familiar with programming both front-end and back-end and know how to use Photoshop and Adobe Illustrator 
 I have an MSRT certificate 
-And I'm currently looking for a job 
+And I'm currently looking for a job as an intern 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AliDehbozorgi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AliDehbozorgi*) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:me@alidehbozorgi.ir) 
 
